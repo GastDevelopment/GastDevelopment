@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GastDev
+- 👀 I’m interested in Java, C++, Python and a hint of web development 
+- 🌱 I’m currently learning all those languages
